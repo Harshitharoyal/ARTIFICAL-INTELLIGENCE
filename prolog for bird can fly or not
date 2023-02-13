@@ -1,0 +1,6 @@
+bird(hen).
+bird(owl).
+bird(pigeon).
+bird(sparrow).
+canfly(x):-
+    bird(x)
